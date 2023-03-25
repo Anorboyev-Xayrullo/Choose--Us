@@ -280,8 +280,10 @@ header {
 }
 
 
-/* ================ Section one  ============= */
-/* ================ Section two  =============*/
+/* ================ Section one end  ============= */
+
+
+/* ================ Section two start  =============*/
 
 
 .salat {
@@ -327,10 +329,11 @@ header {
     border: none;
 }
 
+/* ==========  Section two end  ========= */
 
 
 
-/* ===================== Section  three ====== */
+/* ===================== Section  three  start  ====== */
 
 .section_three {
     margin-top: 100px;
@@ -375,11 +378,14 @@ header {
     color: #181D19;
 }
 
-/* ==========  Section four    ========= */
+/* ==========  Section three end  ========= */
+
+/* ==========  Section four  start  ========= */
 
 
 
 .dishes {
+    padding-top: 100px;
     font-family: 'Sharp Sans No1';
     font-style: normal;
     font-weight: 770;
@@ -402,6 +408,7 @@ header {
 
 
 .salt {
+    margin-top: 30px;
     font-family: 'Sharp Sans No1';
     font-style: normal;
     font-weight: 770;
@@ -425,11 +432,211 @@ header {
 }
 
 
+.all {
+    font-family: 'Sofia Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #FFFFFF;
+    background: linear-gradient(180deg, #64BB47 0%, #2C9553 100%);
+    border-radius: 50px;
+    padding: 16px 32px;
+    border: none;
+    margin-top: 100px;
+    margin-left: 600px;
+}
+
+.afraid {
+    margin-top: 100px;
+}
+
+/* ==================================     section four end */
+
+
+/* ==================================     section five start */
+
+.happy {
+    padding-top: 100px;
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 770;
+    font-size: 54px;
+    line-height: 68px;
+    text-align: center;
+    color: #151414;
+    margin-top: 100px;
+}
+
+.circle {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.circle div {
+    margin-left: 30px;
+}
+
+.circle h2 {
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 770;
+    font-size: 20px;
+    line-height: 25px;
+    color: #333333;
+}
+
+.circle span {
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 760;
+    font-size: 14px;
+    line-height: 17px;
+    color: #888A9A;
+}
+
+
+.thirty {
+    margin-top: 30px;
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 18px;
+    line-height: 30px;
+    color: #181D19;
+}
+
+
+/* ===================== section five end  ================ */
+
+
+.section_six {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.subscrinbe {
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 770;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: center;
+    color: #151414;
+    margin-bottom: 20px;
+}
+
+
+.your {
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #3B433E;
+}
+
+
+.email {
+    padding: 16px 25px;
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 18px;
+    line-height: 22px;
+    color: #8A8A8A;
+    border-radius: 50px;
+    border: none;
+
+}
+
+.same {
+    font-family: 'Sofia Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    background: linear-gradient(180deg, #64BB47 0%, #2C9553 100%);
+    border-radius: 50px;
+    padding: 18px 25px;
+    border: none;
+    margin-left: 30px;
+}
+
+.enter {
+    margin-top: 60px;
+    margin-left: 470px;
+}
+
+
+/* ============= Footer start======================= */
 
 
 
 
+footer {
+    margin-top: 100px;
+}
 
+.formed h2 {
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 770;
+    font-size: 26px;
+    line-height: 32px;
+    color: #2C3847;
+}
+
+.formed p {
+    margin-top: 30px;
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 760;
+    font-size: 16px;
+    line-height: 20px;
+    color: #657582;
+}
+
+.and h2 {
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 770;
+    font-size: 22px;
+    line-height: 28px;
+    color: #2C3847;
+}
+
+.and p {
+    margin-top: 35px;
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 760;
+    font-size: 16px;
+    line-height: 20px;
+    color: #657582;
+    margin-bottom: 50px;
+}
+
+.copy {
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Sharp Sans No1';
+    font-style: normal;
+    font-weight: 760;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
+.nature{
+    background: linear-gradient(180deg, #64BB47 0%, #2C9553 100%);
+    margin-bottom: 20px;
+}
 
 
 
@@ -481,7 +688,7 @@ header {
     }
 
     .healty h2 {
-        font-size: 50px;
+        font-size: 54 px;
         text-align: center;
     }
 
@@ -563,5 +770,48 @@ header {
 
     .cheaf {
         margin-top: 50px;
+    }
+
+    .all {
+        margin-top: 50px;
+        margin-left: 120px;
+    }
+
+    .happy {
+        margin-top: 50px;
+        font-size: 48px;
+        text-align: center;
+    }
+
+    .circle img {
+        margin-left: 40px;
+    }
+
+    .thirty {
+        font-size: 16px;
+    }
+
+    .enter {
+        margin-left: 100px;
+    }
+
+    .same {
+        margin-top: 30px;
+    }
+
+    .formed h2 {
+        text-align: center;
+    }
+
+    .formed p {
+        text-align: center;
+    }
+
+    .and h2 {
+        text-align: center;
+    }
+
+    .and p {
+        text-align: center;
     }
 }
