@@ -170,8 +170,10 @@ header {
 
 
 .chemicals {
-    width: 50%;
+    width: 300px;
+    height: 400px;
     margin-left: 110px;
+    border-radius: 10%;
 }
 
 .cards h2 {
@@ -816,5 +818,8 @@ footer {
     }
     .copy{
         font-size: 15px;
+    }
+    .chemicals{
+        margin-left: 15px;
     }
 }
